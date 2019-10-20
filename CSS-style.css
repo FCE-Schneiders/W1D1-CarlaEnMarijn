@@ -1,0 +1,80 @@
+.Container {
+    background-color: white;
+   display:flex;
+   justify-content: space-between ;
+   max-width: 800px;
+   margin-right: auto;
+   margin-left: auto;
+}
+  
+     
+.HeaderBoth{
+    
+   font-family: sans-serif;
+ border: solid 2px lightgrey;
+ border-radius: 20px;
+ width: 50%;
+ padding: 10px; 
+ margin-right: 10px;
+
+}
+
+h2 {
+    font-family: sans-serif;
+    color: grey;
+    padding: 2px 0px 0px;
+}
+
+.imgCarla {
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.imgMarijn {
+    float: right; 
+    padding-top: 10px;
+    padding-right: 10px;  
+}
+
+.buttons {
+    display: center;
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    /*width: 50%;*/
+}
+
+
+
+.span1  {
+    border: 1px solid green;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: green;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+.span2 {
+    
+    border: 1px solid red;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color:red;
+    width: 50%;
+    text-align: center;
+    padding:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
